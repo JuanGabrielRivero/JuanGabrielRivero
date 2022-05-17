@@ -10,6 +10,8 @@ First projects I have made :
 
 https://firstpagejuan.netlify.app/
 
+https://tiendavirtual33.netlify.app/
+
 https://blogdecafe12k.netlify.app/
 
-https://tiendavirtual33.netlify.app/
+
